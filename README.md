@@ -2,23 +2,27 @@
 
 Free, production-ready skills for [OpenClaw](https://openclaw.ai) — the AI assistant platform.
 
-## Available Skills
+---
 
-### 🎨 [meta-ad-banner-creator](./meta-ad-banner-creator/SKILL.md)
+## 🎨 Meta Ad Banner Creator
+
 Generate production-ready advertising banners for Meta Ads (Facebook, Instagram).
-Covers all placements, safe zones, two-layer text method, HTML/CSS/Python/Node.js code examples.
+Covers all placements, safe zones, two-layer text method, and code examples in HTML/CSS, Python, and Node.js.
 
-## How to Install
+**[⬇️ Download SKILL.md](https://raw.githubusercontent.com/Geeks360/openclaw-skills/main/meta-ad-banner-creator/SKILL.md)**
 
-Drop the `SKILL.md` file into your OpenClaw skills directory:
-```
-~/.openclaw/skills/<skill-name>/SKILL.md
-```
+### How to install
 
-Then restart OpenClaw. The skill will be auto-detected.
+1. Download the `SKILL.md` file above
+2. Place it in your OpenClaw skills folder:
+   ```
+   ~/.openclaw/skills/meta-ad-banner-creator/SKILL.md
+   ```
+3. Restart OpenClaw — the skill will be auto-detected
+
+---
 
 ## About
 
 Made by [Geeks360](https://geeks360.net) — digital marketing agency since 2011.
-
 Questions? Email us at info@g-i.agency
